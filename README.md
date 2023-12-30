@@ -26,8 +26,8 @@ _(silahkan edit sesuai kebutuhan, ex:)_
 
 
 - [Use Case](https://app.diagrams.net/?src=about#G14K-V7TruKtVKzaUwWE8t8aezlxaru3Ho)
-- [Entity Relational Diagram](https://app.diagrams.net/?src=about#G14K-V7TruKtVKzaUwWE8t8aezlxaru3Ho)
-- [Flow Chart](https://app.diagrams.net/?src=about#G14K-V7TruKtVKzaUwWE8t8aezlxaru3Ho)
+- [Entity Relational Diagram](https://app.diagrams.net/?src=about#G14K-V7TruKtVKzaUwWE8t8aezlxaru3Ho#%7B%22pageId%22%3A%22CUMeNQ_HZpwGXtT83zcH%22%7D)
+- [Flow Chart](https://app.diagrams.net/?src=about#G14K-V7TruKtVKzaUwWE8t8aezlxaru3Ho#%7B%22pageId%22%3A%22w-FlXugvd9-MI6KBuSiT%22%7D)
 
 ```
 |-- .gitignore
